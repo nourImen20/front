@@ -1,0 +1,8 @@
+img{
+    width: 100%  !important;
+    height: 450px;
+}
+.slider-container {
+    position: absolute;
+    z-index: 2; // Increase the z-index value to make the slider appear above other elements
+  }
